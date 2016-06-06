@@ -1,0 +1,48 @@
+#matter{
+  color: #ecf0f1;
+  margin-top: 5px;
+  background-color: #3d566e;
+}
+#pic{
+  margin-left: 80px;
+}
+#top{
+  margin-top: 20px;
+
+}
+.info{
+  border-style:hidden;
+}
+#font{
+  font-family: Ubuntu;
+}
+.land{
+  color:  #3d566e;
+}
+.git{
+  color: #2c3e50;
+}
+hr { width:100%; height:3px; background: #3d566e }
+
+.rate{
+  margin-left: 9px;
+}
+.name{
+  color: #7f8c8d;
+}
+.date{
+  float: left;
+}
+.left{
+  margin-left: 30px;
+}
+.moreleft{
+  margin-left: 60px;
+  margin-top: 0px;
+}
+.tip{
+  margin-top: 1px;
+}
+.right{
+  float: right;
+}
